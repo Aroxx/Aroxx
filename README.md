@@ -2,10 +2,10 @@
 
 I'm a QA/automation guy and aspiring web developer. I've been building websites for a long time but it's never paid the bills. Currently focused on mastering React, JavaScript, and CSS. Also, having a lot of fun with [Eleventy](https://www.11ty.dev/), learning about static-site generators, and all that cool Jamstacky stuff. 
 
-📫 How to reach me: alexpeterhall @ gmail
-🛠 I’m currently working on front-end development and test automation.
-🚀 I’m currently learning everything React. 
-🏍 Fun fact: I play classical violin and ride fast motorcycles.
+- 📫 How to reach me: alexpeterhall @ gmail
+- 🛠 I’m currently working on front-end development and test automation.
+- 🚀 I’m currently learning everything React. 
+- 🏍 Fun fact: I play classical violin and ride fast motorcycles.
 
 ---
 
