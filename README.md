@@ -18,9 +18,9 @@ I'm a Quality Assurance / automation professional and front-end developer. I've 
 ### 📝 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Python Syntax Hot Take from a JavaScript Perspective](https://alexpeterhall.com/blog/2021/05/27/python-vs-javascript-syntax/)
 - [freeCodeCamp JavaScript Certification](https://alexpeterhall.com/blog/2021/04/15/fcc-javascript-certification/)
 - [Responsive Images in Eleventy](https://alexpeterhall.com/blog/2021/04/05/responsive-images-eleventy/)
 - [JavaScript Promises](https://alexpeterhall.com/blog/2021/03/29/javascript-promises/)
 - [Deploy Your React App on GitHub Pages](https://alexpeterhall.com/blog/2021/03/12/deploy-github-pages-app/)
-- [Learning with Spaced Repetition](https://alexpeterhall.com/blog/2021/02/17/learning-with-spaced-repetition/)
 <!-- BLOG-POST-LIST:END -->
