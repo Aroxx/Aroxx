@@ -1,10 +1,10 @@
 ## Hi, I'm Alex <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a Quality Assurance / automation professional and front-end developer. I've been building websites for a long time but it's never paid the bills. Currently focused on mastering React, JavaScript, and CSS. Also, having a lot of fun with [Eleventy](https://www.11ty.dev/), learning about static-site generators, and all that cool Jamstacky stuff. 
+I'm a Software Development Engineer in Test and Front-End Developer. I'm currently focused on learning Python and mastering React, JavaScript, and CSS. Also, having a lot of fun with [Eleventy](https://www.11ty.dev/), learning about static-site generators, and all that cool Jamstack stuff. 
 
 - 📫 How to reach me: alexpeterhall @ gmail
-- 🛠 I’m currently working on front-end development and test automation.
-- 🚀 I’m currently learning everything React. 
+- 🛠 I’m currently working on test automation, CI/CD, and front-end development.
+- 🚀 I’m currently learning Python and everything React. 
 - 🏍 Fun fact: I play classical violin and ride motorcycles.
 
 ---
