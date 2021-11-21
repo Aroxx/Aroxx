@@ -1,6 +1,6 @@
-## Hi, I'm Alex <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi, I'm Alex
 
-I'm a Software Development Engineer in Test and Front-End Developer. I'm currently focused on learning Python and mastering React, TypeScript/JavaScript, and CSS. Also, having a lot of fun with [Eleventy](https://www.11ty.dev/), learning about static-site generators, and all that cool Jamstack stuff. 
+I'm a Software Development Engineer in Test and Front-End Developer. I'm currently focused on learning Python and mastering TypeScript/JavaScript, React, and CSS. Also, having a lot of fun with [Eleventy](https://www.11ty.dev/), learning about static-site generators, and all that cool Jamstack stuff. 
 
 - 📫 How to reach me: alexpeterhall @ gmail
 - 🛠 I’m currently working on test automation with Webdriverio, CI/CD, and front-end development.
