@@ -1,10 +1,10 @@
 ## Hi, I'm Alex
 
-I'm a Software Development Engineer in Test and Front-End Developer. I'm currently focused on learning Python and mastering TypeScript/JavaScript, React, and CSS. Also, having a lot of fun with [Eleventy](https://www.11ty.dev/), learning about static-site generators, and all that cool Jamstack stuff. 
+I'm a Software Development Engineer in Test and Front-End Developer. I'm currently focused on mastering TypeScript/JavaScript, Git, and Docker and building test automation. Also, having a lot of fun with [Eleventy](https://www.11ty.dev/), learning about static-site generators, and all that cool Jamstack stuff. 
 
 - 📫 How to reach me: alexpeterhall @ gmail
-- 🛠 I’m currently working on test automation with Webdriverio, CI/CD, and front-end development.
-- 🚀 I’m currently learning Python and everything React. 
+- 🛠 I’m currently working on test automation with WebdriverIO, TypeScript, and Docker.
+- 🚀 I’m currently learning Python and focusing on computer science fundamentals. 
 - 🏍 Fun fact: I play classical violin and ride motorcycles.
 
 ---
